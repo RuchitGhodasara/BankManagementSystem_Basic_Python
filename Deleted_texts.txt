@@ -1,0 +1,133 @@
+#####Start######
+'''def login_code():
+    import pandas as pd
+    idsheet=pd.read_csv(r'D:\BASIC OF COMPUTER\Project work\Data_Frame\id_password_.csv')#(...,index_col=0)
+    print(idsheet)
+    you_id=input('Enter Your ID carefully : ')
+    count1=-1
+    for a in idsheet['Id']:
+        count1+=1
+        if a==you_id:
+            print()
+            you_pass=input('Now Enter Password : ')
+            if you_pass==idsheet.loc[count1,'Password']:
+                print('Yes Right')
+                import mainmenu
+                imp(you_id)
+            else:
+                print('\n** Your Password does not match ** \n * NOTE Password is Case Sensitive')
+                print()
+                print('** WANT TO TRY AGAIN? **')
+                print()
+                choic2=input('Press "y" or "Y" to Continue : ')
+                if choic2=='y' or choic2=='Y':
+                    print('\nSo, We are moving you to the Login Page again \n Wait for a While...')
+                    import time
+                    time.sleep(5)
+                    login_start()
+            break
+    else:
+        print()
+        print('** Your ID does not in Databse **')
+        print()
+        print('\n* NOTE ID is Case Sensitive Try it Again')
+        print('\n **OR** NOT HAVE ID ?\nthen choose 2nd option : Using app First Time ? in Login Page')
+        print('\n** WANT TO TRY AGAIN? **')
+        choic2=input('Press "y" or "Y" to Continue : ')
+        print()
+        if choic2=='y' or choic2=='Y':
+            print('So, We are moving you to the Login Page again \n Wait for a While...')
+            import time
+            t1=time.time()
+            while 1:
+                t2=time.time()
+                if t2-t1 >5:
+                    break
+            login_start()
+            '''
+
+"""
+def add_id(idd,passwordd):
+    import pandas as pd
+    idsheet=pd.read_csv(r'D:\BASIC OF COMPUTER\Project work\Data_Frame\id_password_.csv')
+    idsheet.loc[len(idsheet)]=[idd,passwordd]
+    idsheet.to_csv(r'D:\BASIC OF COMPUTER\Project work\Data_Frame\id_password_.csv')
+    print()
+    print('## We are SUCSESSFULLY Created Your Account ##')
+    print()
+"""
+
+'''def create():
+    print()
+    print()
+    f_nam=input('Enter your First Name : ')
+    l_nam=input('Enter Your Last name : ')
+    
+    if (len(f_nam)<3 or len(l_nam)<3):
+        print()
+        print('We will not allow this as Name.')
+        print('IF you want to Resubmit it...')
+        choic4=input('press "y" in small : ')
+        if choic4=='y':
+            create()
+    else:
+        print()
+        print('SET Password Between 8 to 12 characters.')
+        d_pas=input('Set your Pasword : ')
+        if 7<len(d_pas)<13:
+            d_pas2=input('Now confirm Password : ')
+            if d_pas2==d_pas:
+                d_id=(f_nam+'_'+l_nam[0]+l_nam[2]+'@'+d_pas[0]+d_pas[4])
+                from insert import add_id
+                add_id(d_id,d_pas)
+                print()
+                print('#### NOTE YOUR ID ####')
+                print(d_id)
+                print()
+                print('TAKE A WILE AND NOTEDOWN your ID CAREFULLY')
+                print('we will let you to login page in while...')
+                import time
+                time.sleep(4)
+                #t1=time.time()
+                #while 1:
+                #    t2=time.time()
+                #    if t2-t1 >4:
+                #        break
+                login_start()
+            else:
+                print('Pasword MUST BE SAME !!')
+        else:
+            print('We will not allow you to use that password.')
+            print()
+            print('IF you want to Resubmit it...')
+            choic3=input('press "y" in small : ')
+            if choic3=='y':
+                create()
+ '''   
+
+
+
+####TIME DELAYE
+import time
+t1=time.time()
+while True:
+	t2=time.time()
+	if t2-t1>4:
+		break
+
+is not a good way...
+so We used time.sleep(4)
+
+
+
+
+#####Checking something
+Id','FirstName','LastName','AccountType','CurrentBalance','Atm_','CreditCard_','InterestRate','Password
+
+fun: ac_add
+from : insert
+
+Raman_Vn@si
+swamii678
+ac_add('Raman_Vn@si','Raman','Venkat','S','1000','Y','N','4','swamii678')
+

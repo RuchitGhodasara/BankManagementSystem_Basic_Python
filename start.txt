@@ -1,0 +1,10 @@
+Ruchit Godasara - AU2040033
+Heet Dedakiya   - AU2040150
+
+Welcome to H & R bank services
+
+Our all files are in " programs " folder.
+
+***  To start, Open " start.py " file.  ***
+
+In programs, to skip the steps simply press " Enter " key.

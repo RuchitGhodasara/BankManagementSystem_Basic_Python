@@ -1,0 +1,218 @@
+Welcome to H&R Bank Services
+
+
+** LOGIN PAGE **
+
+(1) Login with ID and Password :
+(2) Using app First Time ?
+
+"Enter key" for Exit
+
+Make Your Choise : 1
+
+Enter Your ID carefully : Virat_Kh@Vn
+
+Now, Enter Password : VirandAnu
+Yes Right...
+We are moving you in Main Menu :
+Wait for while...
+
+
+
+
+### MAIN MENU ###
+
+(1)  Current Balance :
+(2)  Make Payment :
+(3)  More
+
+"Enter" for Log out
+
+Make your Choice : 1
+We are catching your Data...
+
+## Your Current Balance is :  501
+
+Note it CareFully...
+We are Shifting you to Main menu in a while...
+
+
+
+
+### MAIN MENU ###
+
+(1)  Current Balance :
+(2)  Make Payment :
+(3)  More
+
+"Enter" for Log out
+
+Make your Choice : 2
+abc
+
+........
+1 )  Raj  Patel  :  id= Raj_Pt@45
+2 )  Tej  Sadhariya  :  id= Tej_Sd@a9
+3 )  Shyam  Soham  :  id= Shyam_Sh@Z1
+4 )  Ruchit  Ghodasara  :  id= Ruchit_Go@12
+5 )  Heet  Dedakiya  :  id= Heet_Dd@R8
+
+Enter Account number from this : 1
+
+Currunt bala :  501
+Enter Ammount to Pay :5000
+Your Amount is "Out of Range"
+You can pay 0 rupees to  501
+
+To Try again... " y " : y
+
+ Wait...
+
+........
+1 )  Raj  Patel  :  id= Raj_Pt@45
+2 )  Tej  Sadhariya  :  id= Tej_Sd@a9
+3 )  Shyam  Soham  :  id= Shyam_Sh@Z1
+4 )  Ruchit  Ghodasara  :  id= Ruchit_Go@12
+5 )  Heet  Dedakiya  :  id= Heet_Dd@R8
+
+Enter Account number from this : 5
+
+Currunt bala :  501
+Enter Ammount to Pay :99
+
+ ** Payment Succsessful. **
+
+
+ Current Balance : 402
+
+Wait...
+
+
+
+
+### MAIN MENU ###
+
+(1)  Current Balance :
+(2)  Make Payment :
+(3)  More
+
+"Enter" for Log out
+
+Make your Choice : 1
+We are catching your Data...
+
+## Your Current Balance is :  402
+
+Note it CareFully...
+We are Shifting you to Main menu in a while...
+
+
+
+
+### MAIN MENU ###
+
+(1)  Current Balance :
+(2)  Make Payment :
+(3)  More
+
+"Enter" for Log out
+
+Make your Choice : 3
+Getting All the Services...
+
+ ##  Your Current Status of Services :  ##
+
+1. Atm           :   On
+
+2. Credit Card   :   On
+
+3. Account Type  :   Current Account
+
+* Interest Rate :   0 %
+
+
+  *  To Edit Services...
+ e.g.  Make Card "Enable" or "Desable"
+        Press "y" :y
+
+You can make your card OFF for an imergency
+Or you can Place an order for New card...
+
+
+
+Enter word -->> " off " if you want...
+
+Want to OFF ATM ? :
+OK atm is still ON
+
+
+Enter word -->> " off " if you want...
+
+Want to OFF CreditCard ? : off
+* CreditCard is now  OFF
+
+
+Make Sure you satisfied...
+We are Shifting you to Main menu in a while...
+
+
+
+
+### MAIN MENU ###
+
+(1)  Current Balance :
+(2)  Make Payment :
+(3)  More
+
+"Enter" for Log out
+
+Make your Choice : 3
+Getting All the Services...
+
+ ##  Your Current Status of Services :  ##
+
+1. Atm           :   On
+
+2. Credit Card   :   Off
+
+3. Account Type  :   Current Account
+
+* Interest Rate :   0 %
+
+
+  *  To Edit Services...
+ e.g.  Make Card "Enable" or "Desable"
+        Press "y" :
+
+
+Make Sure you satisfied...
+We are Shifting you to Main menu in a while...
+
+
+
+
+### MAIN MENU ###
+
+(1)  Current Balance :
+(2)  Make Payment :
+(3)  More
+
+"Enter" for Log out
+
+Make your Choice :
+
+ ### Thank you For Visiting Our Vertual Bank  ###
+
+*We are Logging You Out in while...
+
+Welcome to H&R Bank Services
+
+
+** LOGIN PAGE **
+
+(1) Login with ID and Password :
+(2) Using app First Time ?
+
+"Enter key" for Exit
+
+Make Your Choise :
